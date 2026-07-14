@@ -28,13 +28,11 @@
 
 ## Running the Program
 
-Run the Python script with:
+Run the Python script in the mixtureenv environment with:
 
 ```bash
-python <script_name>.py
+python mfmfa.py
 ```
-
-Replace `<script_name>.py` with the name of the main Python script in this repository.
 
 ## Updating the Environment
 
